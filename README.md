@@ -12,12 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=gemuzkm&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ### :man_technologist: About Me :
-I am a system administrator of linux stations <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100">.
+I am a system administrator of linux stations <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100">
 
 ---
 
