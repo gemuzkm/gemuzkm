@@ -63,7 +63,7 @@ I am a **Linux System Administrator** and **Backend Developer** with expertise i
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gemuzkm&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gemuzkm&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
