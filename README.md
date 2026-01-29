@@ -87,16 +87,30 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gemuzkm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gemuzkm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=gemuzkm&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gemuzkm&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemuzkm&theme=tokyonight" alt="Profile Summary" />
 </p>
 
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gemuzkm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gemuzkm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+### 📅 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gemuzkm&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 ---
