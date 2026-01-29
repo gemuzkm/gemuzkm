@@ -74,16 +74,19 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gemuzkm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&langs_count=8&theme=dark"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gemuzkm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemuzkm&theme=dark" alt="GitHub Streak Stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gemuzkm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
