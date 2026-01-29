@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maksim+%F0%9F%91%8B;Linux+SysAdmin+%26+DevOps;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maksim+%F0%9F%91%8B;Linux+SysAdmin+%26+DevOps;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 
 - 🖥️ **Systems Engineering**: Managing enterprise Linux servers (RHEL, SLES, Debian, RedOS) with expertise in virtualization, networking, and security
 - 🌐 **Web Development**: Building custom WordPress solutions, performance optimization, and API integrations
-- 🤖 **AI/ML Exploration**: Experimenting with text-to-speech systems (Qwen3-TTS) and video automation pipelines
+- 🤖 **AI/ML Exploration**: Experimenting with text-to-speech systems and video automation pipelines
 - 🐳 **DevOps**: Docker containerization, CI/CD workflows, infrastructure as code
 - 📊 **Performance Optimization**: PageSpeed improvements, caching strategies, and SEO implementation
 - 🎯 **Current Focus**: Developing automated content generation systems and scaling web infrastructure
@@ -67,26 +67,22 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 
 ## 🚀 Featured Projects
 
-- 🚗 **ProCarManuals.com** - Automotive repair resource platform with advanced SEO optimization and custom WordPress plugins
+- 🌐 **WordPress Website Development** - Building and maintaining high-performance WordPress sites with custom themes and plugins
 - 🎬 **Video Automation Pipeline** - AI-powered text-to-speech system for automated video content generation
 - 🔧 **Custom WordPress Plugins** - Category management tools and PDF handling solutions for enhanced content workflows
 - 📦 **Infrastructure Projects** - Virtualization setups, backup systems, and network optimization implementations
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gemuzkm&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gemuzkm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemuzkm&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemuzkm&theme=github_dark" alt="GitHub Profile Summary"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemuzkm&theme=dark" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -101,7 +97,7 @@ learning:
   - Cloud infrastructure optimization
 
 working_on:
-  - Website performance optimization at ProCarManuals.com
+  - WordPress website performance optimization
   - Custom WordPress plugin ecosystem
   - Automated content generation with AI
   - Video production pipeline development
