@@ -21,9 +21,9 @@
 I'm a technology enthusiast specializing in Linux infrastructure management, web development, and automation. Based in Belarus, I build and maintain scalable systems while developing custom solutions for modern web applications.
 
 - 🖥️ **Systems Engineering**: Managing enterprise Linux servers (RHEL, SLES, Debian, RedOS) with expertise in virtualization, networking, and security
-- 🌐 **Web Development**: Building custom WordPress solutions, performance optimization, and API integrations
+- 🌐 **Web Development**: Building custom WordPress solutions, Spring-based applications, and API integrations
 - 🤖 **AI/ML Exploration**: Experimenting with text-to-speech systems and video automation pipelines
-- 🐳 **DevOps**: Docker containerization, CI/CD workflows, infrastructure as code
+- 🐳 **DevOps**: Docker containerization, Ansible automation, CI/CD workflows, infrastructure as code
 - 📊 **Performance Optimization**: PageSpeed improvements, caching strategies, and SEO implementation
 - 🎯 **Current Focus**: Developing automated content generation systems and scaling web infrastructure
 
@@ -38,25 +38,34 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
 </div>
 
 ### **Programming & Scripting**
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
-### **Web Technologies & CMS**
+### **Frameworks & Technologies**
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-### **Development Tools**
+### **Databases & Caching**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+</div>
+
+### **Development Tools & Monitoring**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
@@ -69,8 +78,10 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 
 - 🌐 **WordPress Website Development** - Building and maintaining high-performance WordPress sites with custom themes and plugins
 - 🎬 **Video Automation Pipeline** - AI-powered text-to-speech system for automated video content generation
-- 🔧 **Custom WordPress Plugins** - Category management tools and PDF handling solutions for enhanced content workflows
-- 📦 **Infrastructure Projects** - Virtualization setups, backup systems, and network optimization implementations
+- 🔧 **Custom WordPress Plugins** - Category management tools, PDF lazy loading, and Redis caching solutions
+- ☕ **Spring Framework Applications** - RESTful APIs with JWT authentication and Spring Security integration
+- 📦 **Infrastructure Projects** - Ansible automation, virtualization setups, backup systems, and network optimization
+- 🔍 **Monitoring Solutions** - Zabbix HDD SMART monitoring for Linux systems
 
 ---
 
@@ -118,24 +129,32 @@ open_to:
 
 **System Administration**
 - Linux server management (RHEL, SLES, Debian, RedOS)
+- Ansible automation and configuration management
 - NFS storage configuration and optimization
 - LDAP authentication systems
 - Backup and disaster recovery solutions
 - Network configuration and security hardening
+- Zabbix monitoring and alerting
 
 **Web Development**
-- WordPress custom theme and plugin development
-- PageSpeed optimization and caching strategies
-- RESTful API design and integration
+- **Backend**: Spring Framework (Spring Boot, Spring Web, Spring Security), Java EE (Servlets, JSP)
+- **Frontend**: WordPress custom theme and plugin development
+- **APIs**: RESTful API design with JWT authentication, WordPress REST API integration
+- PageSpeed optimization and caching strategies (Redis)
 - Database optimization and query tuning
 - SEO implementation and content optimization
 
 **DevOps & Automation**
 - Docker containerization and orchestration
+- Ansible playbooks and roles
 - CI/CD pipeline configuration
-- Bash scripting and automation
-- Infrastructure monitoring and logging
+- Bash, Python, and Perl scripting
+- Infrastructure monitoring (Zabbix)
 - Configuration management
+
+**Low-Level Development**
+- C programming and kernel module development
+- DKMS module compilation and integration
 
 ---
 
