@@ -93,8 +93,7 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gemuzkm&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 <p align="center">
