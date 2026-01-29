@@ -88,13 +88,13 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gemuzkm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=gemuzkm&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=gemuzkm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=gemuzkm&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemuzkm&repo=gemuzkm&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gemuzkm&repo=gemuzkm&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
 </div>
 
 <p align="center">
@@ -116,7 +116,7 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 ### 📊 Commit Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gemuzkm&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=gemuzkm&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=gemuzkm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
 
