@@ -93,8 +93,13 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemuzkm&repo=gemuzkm&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
 </div>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemuzkm&theme=tokyonight" alt="Profile Summary" />
+</p>
 
 ### 🏆 GitHub Trophies
 
@@ -107,6 +112,13 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gemuzkm&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
+
+### 📊 Commit Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gemuzkm&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=gemuzkm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</div>
 
 ---
 
