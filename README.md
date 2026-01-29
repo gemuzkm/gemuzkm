@@ -96,10 +96,6 @@ I'm a technology enthusiast specializing in Linux infrastructure management, web
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemuzkm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gemuzkm&theme=tokyonight" alt="Profile Summary" />
-</p>
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
